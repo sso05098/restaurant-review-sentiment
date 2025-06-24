@@ -28,6 +28,8 @@
 
 ## 📊 시각화 자료
 
-- LSTM 학습 정확도 / 손실 그래프  
+- LSTM 학습 정확도 / 손실 그래프
+- ### 🔹 LSTM 정확도 그래프
+![LSTM Accuracy](plots/lstm1.png)
 - 혼동행렬 (Confusion Matrix)  
 - 예측 결과 예시:
