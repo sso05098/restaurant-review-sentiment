@@ -53,4 +53,4 @@ weighted avg       0.81      0.84      0.81     73814
 - ### 🔹 BERT 정확도/손실 그래프
 ![BERT Accuracy](plots/bert1.png) ![BERT Accuracy](plots/bert2.png)
 - ### 🔹 워드클라우드
-![](plots/wordcloud.png)
+![wordcloud](plots/wordcloud.png)
