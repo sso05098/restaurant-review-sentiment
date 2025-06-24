@@ -27,9 +27,8 @@
 (특히 중립/부정 감정 분류에서 확실한 우세)
 
 ## 📊 시각화 자료
-
-- LSTM 학습 정확도 / 손실 그래프
-- ### 🔹 LSTM 정확도 그래프
-![LSTM Accuracy](plots/lstm1.png)
-- 혼동행렬 (Confusion Matrix)  
+- ### 🔹 LSTM 정확도/손실 그래프
+![LSTM Accuracy](plots/lstm1.png) ![LSTM Accuracy](plots/lstm2.png)
+- ### 🔹 BERT 정확도/손실 그래프
+![BERT Accuracy](plots/bert1.png) ![BERT Accuracy](plots/bert2.png)
 - 예측 결과 예시:
