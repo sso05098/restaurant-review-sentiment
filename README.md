@@ -28,17 +28,15 @@
 
 ## 분류 평가 지표
 - ### 🔹 LSTM
-                precision    recall  f1-score   support
+              precision    recall  f1-score   support
 
           부정       0.69      0.47      0.56      4174
           중립       0.51      0.20      0.28      9912
           긍정       0.87      0.97      0.92     59728
-| 지표           | Precision | Recall | F1-Score | Support |
-| ------------ | --------- | ------ | -------- | ------- |
-| Accuracy     | -         | -      | 0.84     | 73,814  |
-| Macro Avg    | 0.69      | 0.55   | 0.59     | 73,814  |
-| Weighted Avg | 0.81      | 0.84   | 0.81     | 73,814  |
 
+    accuracy                           0.84     73814
+   macro avg       0.69      0.55      0.59     73814
+weighted avg       0.81      0.84      0.81     73814
 
 - ### 🔹 BERT
                 precision    recall  f1-score   support
@@ -46,6 +44,7 @@
           부정       0.82      0.74      0.78      4170
           중립       0.66      0.55      0.60      4171
           긍정       0.66      0.83      0.73      4171
+-  
      accuracy                           0.71     12512
     macro avg       0.71      0.71      0.70     12512
  weighted avg       0.71      0.71      0.70     12512
