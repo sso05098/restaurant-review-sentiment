@@ -43,4 +43,4 @@
 - ### 🔹 BERT 정확도/손실 그래프
 ![BERT Accuracy](plots/bert1.png) ![BERT Accuracy](plots/bert2.png)
 - ### 🔹 워드클라우드
-![부정단어](plots/bad.png) ![중립단어](plots/soso.png) ![긍정단어](plots/good.png)
+- 부정단어 ![부정단어](plots/bad.png) - 중립단어 ![중립단어](plots/soso.png) - 긍정단어 ![긍정단어](plots/good.png)
